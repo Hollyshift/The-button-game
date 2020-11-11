@@ -72,7 +72,7 @@ function endGame() {
 
 
 // Time of the game in milliseconds
-gameTime(5000)
+gameTime(60000)
 
 // End the game once the time is up
 function gameTime( t ) {
